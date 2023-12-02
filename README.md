@@ -1,4 +1,4 @@
-# Iris Flowers Classification
+# Iris Flowers Classification using Logistic Regression Classifier
 
 This project aims to classify iris flowers into three different species: setosa, versicolor, and virginica, based on four features: sepal length, sepal width, petal length, and petal width using Logistic Regression classifier. The dataset used for this project is the [Iris dataset], which contains 150 records of iris flowers, with 50 records for each species.
 
